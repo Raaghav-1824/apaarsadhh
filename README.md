@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Here are some ideas to get you started:
+>Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Social Media Handling
 - 🌱 I’m currently learning Backend Development
