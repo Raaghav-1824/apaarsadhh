@@ -2,7 +2,7 @@
 <p align="center">A passionate Engineer</p>
 
 - 🔭 I’m Full-Stack Web Developer
-- 🌱 i'm open to contribute for projects
+- 🌱 I'm open to contribute for projects
 - 👯 I’m looking to collaborate on Web3/Metaverse
 
 <h3>Connect with me :</h3>
